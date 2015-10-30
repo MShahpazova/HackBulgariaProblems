@@ -1,0 +1,2 @@
+C:\Users\maria\Desktop\Problems\Problems\HackBulgariaProblems\2.WordGame\bin\Debug\2.WordGame.exe.config
+C:\Users\maria\Documents\GitHub\HackBulgariaProblems\2.WordGame\bin\Debug\2.WordGame.exe.config

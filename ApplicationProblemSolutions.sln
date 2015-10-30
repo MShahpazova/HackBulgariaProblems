@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Points", "1.Points\1.Points.csproj", "{E0900C76-9AA2-4852-B156-6BE33C06452B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.WordGame", "2.WordGame\2.WordGame.csproj", "{48EAE01B-9C6B-4974-8490-FBEE7DAD24C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.DependenciesResolving", "3.DependenciesResolving\3.DependenciesResolving.csproj", "{CD244493-A096-4C7E-A478-D2398351CA08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0900C76-9AA2-4852-B156-6BE33C06452B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0900C76-9AA2-4852-B156-6BE33C06452B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0900C76-9AA2-4852-B156-6BE33C06452B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0900C76-9AA2-4852-B156-6BE33C06452B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48EAE01B-9C6B-4974-8490-FBEE7DAD24C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48EAE01B-9C6B-4974-8490-FBEE7DAD24C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48EAE01B-9C6B-4974-8490-FBEE7DAD24C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48EAE01B-9C6B-4974-8490-FBEE7DAD24C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD244493-A096-4C7E-A478-D2398351CA08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD244493-A096-4C7E-A478-D2398351CA08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD244493-A096-4C7E-A478-D2398351CA08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD244493-A096-4C7E-A478-D2398351CA08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
